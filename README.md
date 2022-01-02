@@ -5,6 +5,9 @@ En el home banking vamos a poder ingresar por usuario y visualizar nuestro saldo
 
 En la DB se han puesto tarjetas predefinidas para usuarios ya creados, con los que vamos a poder transferir dinero de cuenta a cuenta.
 
+Las credenciales de la Base de datos no son reales, son solo para fines demostrativos.
+Los numero de tarjetas y claves no son reales, son solo para fines demostrativos.
+
 TARJETA 1:
 4546-8574-1856-5565
 PIN: 4345
