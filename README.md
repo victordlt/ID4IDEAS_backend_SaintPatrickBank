@@ -10,7 +10,7 @@ Las credenciales de la Base de datos no son reales, son solo para fines demostra
 Los numero de tarjetas y claves no son reales, son solo para fines demostrativos.
 
 
-TARJETA 1:
+TARJETA1:
 4546-8574-1856-5565
 PIN: 4345
 
