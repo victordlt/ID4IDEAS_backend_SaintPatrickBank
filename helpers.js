@@ -8,7 +8,6 @@
 //*exportar modulo
 //*luego importarlo en cliente.model.js
 
-
 //metodo para la mayoria
 //values = [] es un parametro opcional, quiere decir que si no le paso ese parametro sera un array vacio []
 const executeQuery = (sql, values = []) => {

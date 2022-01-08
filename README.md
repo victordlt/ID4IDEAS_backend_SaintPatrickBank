@@ -9,7 +9,8 @@ En la DB se han puesto tarjetas predefinidas para usuarios ya creados, con los q
 Las credenciales de la Base de datos no son reales, son solo para fines demostrativos.
 Los numero de tarjetas y claves no son reales, son solo para fines demostrativos.
 
-TARJETA 1:
+
+TARJETA1:
 4546-8574-1856-5565
 PIN: 4345
 
